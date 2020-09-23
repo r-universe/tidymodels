@@ -102,6 +102,10 @@
 	path = tune
 	url = https://github.com/tidymodels/tune
 	shallow = true
+[submodule "usemodels"]
+	path = usemodels
+	url = https://github.com/tidymodels/usemodels
+	shallow = true
 [submodule "workflows"]
 	path = workflows
 	url = https://github.com/tidymodels/workflows
