@@ -114,3 +114,15 @@
 	path = yardstick
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
+[submodule "dials"]
+	path = dials
+	url = https://github.com/tidymodels/dials
+	shallow = true
+[submodule "rsample"]
+	path = rsample
+	url = https://github.com/tidymodels/rsample
+	shallow = true
+[submodule "workflows"]
+	path = workflows
+	url = https://github.com/tidymodels/workflows
+	shallow = true

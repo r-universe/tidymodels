@@ -1,0 +1,20 @@
+[
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "rsample",
+    "url": "https://github.com/tidymodels/rsample",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "workflows",
+    "url": "https://github.com/tidymodels/workflows",
+    "via": ["tune"],
+    "from": "tune"
+  }
+]
