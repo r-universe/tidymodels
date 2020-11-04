@@ -1,19 +1,7 @@
 [
   {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
-    "package": "rsample",
-    "url": "https://github.com/tidymodels/rsample",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
-    "package": "workflows",
-    "url": "https://github.com/tidymodels/workflows",
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
     "via": ["tune"],
     "from": "tune"
   }
