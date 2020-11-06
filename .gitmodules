@@ -114,7 +114,3 @@
 	path = yardstick
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
-[submodule "recipes"]
-	path = recipes
-	url = https://github.com/tidymodels/recipes
-	shallow = true
