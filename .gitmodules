@@ -2,115 +2,144 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "applicable"]
 	path = applicable
 	url = https://github.com/tidymodels/applicable
 	shallow = true
+	branch = HEAD
 [submodule "baguette"]
 	path = baguette
 	url = https://github.com/tidymodels/baguette
 	shallow = true
+	branch = HEAD
 [submodule "broom"]
 	path = broom
 	url = https://github.com/tidymodels/broom
 	shallow = true
+	branch = HEAD
 [submodule "butcher"]
 	path = butcher
 	url = https://github.com/tidymodels/butcher
 	shallow = true
+	branch = HEAD
 [submodule "corrr"]
 	path = corrr
 	url = https://github.com/tidymodels/corrr
 	shallow = true
+	branch = HEAD
 [submodule "dials"]
 	path = dials
 	url = https://github.com/tidymodels/dials
 	shallow = true
+	branch = HEAD
 [submodule "discrim"]
 	path = discrim
 	url = https://github.com/tidymodels/discrim
 	shallow = true
+	branch = HEAD
 [submodule "embed"]
 	path = embed
 	url = https://github.com/tidymodels/embed
 	shallow = true
+	branch = HEAD
 [submodule "hardhat"]
 	path = hardhat
 	url = https://github.com/tidymodels/hardhat
 	shallow = true
+	branch = HEAD
 [submodule "infer"]
 	path = infer
 	url = https://github.com/tidymodels/infer
 	shallow = true
+	branch = HEAD
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/tidymodels/tidymodels
 	shallow = true
+	branch = HEAD
 [submodule "modeldb"]
 	path = modeldb
 	url = https://github.com/tidymodels/modeldb
 	shallow = true
+	branch = HEAD
 [submodule "parsnip"]
 	path = parsnip
 	url = https://github.com/tidymodels/parsnip
 	shallow = true
+	branch = HEAD
 [submodule "plsmod"]
 	path = plsmod
 	url = https://github.com/tidymodels/plsmod
 	shallow = true
+	branch = HEAD
 [submodule "poissonreg"]
 	path = poissonreg
 	url = https://github.com/tidymodels/poissonreg
 	shallow = true
+	branch = HEAD
 [submodule "probably"]
 	path = probably
 	url = https://github.com/tidymodels/probably
 	shallow = true
+	branch = HEAD
 [submodule "recipes"]
 	path = recipes
 	url = https://github.com/tidymodels/recipes
 	shallow = true
+	branch = HEAD
 [submodule "rsample"]
 	path = rsample
 	url = https://github.com/tidymodels/rsample
 	shallow = true
+	branch = HEAD
 [submodule "rules"]
 	path = rules
 	url = https://github.com/tidymodels/rules
 	shallow = true
+	branch = HEAD
 [submodule "textrecipes"]
 	path = textrecipes
 	url = https://github.com/tidymodels/textrecipes
 	shallow = true
+	branch = HEAD
 [submodule "themis"]
 	path = themis
 	url = https://github.com/tidymodels/themis
 	shallow = true
+	branch = HEAD
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/tidymodels/tidymodels
 	shallow = true
+	branch = HEAD
 [submodule "tidyposterior"]
 	path = tidyposterior
 	url = https://github.com/tidymodels/tidyposterior
 	shallow = true
+	branch = HEAD
 [submodule "tidypredict"]
 	path = tidypredict
 	url = https://github.com/tidymodels/tidypredict
 	shallow = true
+	branch = HEAD
 [submodule "tune"]
 	path = tune
 	url = https://github.com/tidymodels/tune
 	shallow = true
+	branch = HEAD
 [submodule "usemodels"]
 	path = usemodels
 	url = https://github.com/tidymodels/usemodels
 	shallow = true
+	branch = HEAD
 [submodule "workflows"]
 	path = workflows
 	url = https://github.com/tidymodels/workflows
 	shallow = true
+	branch = HEAD
 [submodule "yardstick"]
 	path = yardstick
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
+	branch = HEAD
