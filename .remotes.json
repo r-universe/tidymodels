@@ -2,12 +2,6 @@
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
-    "via": ["embed"],
-    "from": "embed"
-  },
-  {
-    "package": "recipes",
-    "url": "https://github.com/tidymodels/recipes",
     "via": ["textrecipes"],
     "from": "textrecipes"
   },
