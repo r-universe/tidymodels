@@ -1,8 +1,0 @@
-[
-  {
-    "package": "recipes",
-    "url": "https://github.com/tidymodels/recipes",
-    "via": ["tune"],
-    "from": "tune"
-  }
-]
