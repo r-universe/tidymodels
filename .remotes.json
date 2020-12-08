@@ -1,0 +1,8 @@
+[
+  {
+    "package": "butcher",
+    "url": "https://github.com/tidymodels/butcher",
+    "via": ["workflows"],
+    "from": "workflows"
+  }
+]
