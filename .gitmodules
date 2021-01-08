@@ -119,3 +119,7 @@
 	path = yardstick
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
+[submodule "modeltests"]
+	path = modeltests
+	url = https://github.com/alexpghayes/modeltests
+	shallow = true

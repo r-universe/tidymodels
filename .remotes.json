@@ -4,5 +4,11 @@
     "url": "https://github.com/tidymodels/butcher",
     "via": ["workflows"],
     "from": "workflows"
+  },
+  {
+    "package": "modeltests",
+    "url": "https://github.com/alexpghayes/modeltests",
+    "via": ["broom"],
+    "from": "broom"
   }
 ]
