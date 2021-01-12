@@ -10,5 +10,35 @@
     "url": "https://github.com/alexpghayes/modeltests",
     "via": ["broom"],
     "from": "broom"
+  },
+  {
+    "package": "rsample",
+    "url": "https://github.com/tidymodels/rsample",
+    "via": ["tidyposterior", "workflowsets"],
+    "from": "tidyposterior"
+  },
+  {
+    "package": "rsample",
+    "url": "https://github.com/tidymodels/rsample",
+    "via": ["tidyposterior"],
+    "from": "tidyposterior"
+  },
+  {
+    "package": "tune",
+    "url": "https://github.com/tidymodels/tune",
+    "via": ["tidyposterior", "workflowsets"],
+    "from": "tidyposterior"
+  },
+  {
+    "package": "tune",
+    "url": "https://github.com/tidymodels/tune",
+    "via": ["tidyposterior"],
+    "from": "tidyposterior"
+  },
+  {
+    "package": "workflowsets",
+    "url": "https://github.com/tidymodels/workflowsets",
+    "via": ["tidyposterior"],
+    "from": "tidyposterior"
   }
 ]

@@ -123,3 +123,7 @@
 	path = modeltests
 	url = https://github.com/alexpghayes/modeltests
 	shallow = true
+[submodule "workflowsets"]
+	path = workflowsets
+	url = https://github.com/tidymodels/workflowsets
+	shallow = true
