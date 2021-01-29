@@ -6,12 +6,6 @@
     "from": "workflows"
   },
   {
-    "package": "modeltests",
-    "url": "https://github.com/alexpghayes/modeltests",
-    "via": ["broom"],
-    "from": "broom"
-  },
-  {
     "package": "rsample",
     "url": "https://github.com/tidymodels/rsample",
     "via": ["tidyposterior", "workflowsets"],
