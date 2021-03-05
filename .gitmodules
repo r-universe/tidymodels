@@ -83,6 +83,10 @@
 	path = rules
 	url = https://github.com/tidymodels/rules
 	shallow = true
+[submodule "spatialsample"]
+	path = spatialsample
+	url = https://github.com/tidymodels/spatialsample
+	shallow = true
 [submodule "textrecipes"]
 	path = textrecipes
 	url = https://github.com/tidymodels/textrecipes
