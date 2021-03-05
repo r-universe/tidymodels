@@ -8,12 +8,6 @@
   {
     "package": "rsample",
     "url": "https://github.com/tidymodels/rsample",
-    "via": ["tidyposterior", "workflowsets"],
-    "from": "tidyposterior"
-  },
-  {
-    "package": "rsample",
-    "url": "https://github.com/tidymodels/rsample",
     "via": ["tidyposterior"],
     "from": "tidyposterior"
   },
