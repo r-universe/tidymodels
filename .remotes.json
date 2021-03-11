@@ -18,12 +18,6 @@
     "from": "tidyposterior"
   },
   {
-    "package": "workflows",
-    "url": "https://github.com/tidymodels/workflows",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
     "package": "workflowsets",
     "url": "https://github.com/tidymodels/workflowsets",
     "via": ["tidyposterior"],
