@@ -119,11 +119,11 @@
 	path = workflows
 	url = https://github.com/tidymodels/workflows
 	shallow = true
-[submodule "yardstick"]
-	path = yardstick
-	url = https://github.com/tidymodels/yardstick
-	shallow = true
 [submodule "workflowsets"]
 	path = workflowsets
 	url = https://github.com/tidymodels/workflowsets
+	shallow = true
+[submodule "yardstick"]
+	path = yardstick
+	url = https://github.com/tidymodels/yardstick
 	shallow = true
