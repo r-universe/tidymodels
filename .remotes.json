@@ -8,12 +8,6 @@
   {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
-    "via": ["tidyposterior", "workflowsets"],
-    "from": "tidyposterior"
-  },
-  {
-    "package": "tune",
-    "url": "https://github.com/tidymodels/tune",
     "via": ["tidyposterior"],
     "from": "tidyposterior"
   },
