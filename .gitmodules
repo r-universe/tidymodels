@@ -108,6 +108,11 @@
 	url = https://github.com/tidymodels/spatialsample
 	shallow = true
 	registered = true
+[submodule "stacks"]
+	path = stacks
+	url = https://github.com/tidymodels/stacks
+	shallow = true
+	registered = true
 [submodule "textrecipes"]
 	path = textrecipes
 	url = https://github.com/tidymodels/textrecipes
