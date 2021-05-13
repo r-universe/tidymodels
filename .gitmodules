@@ -8,158 +8,190 @@
 	url = https://github.com/tidymodels/applicable
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "baguette"]
 	path = baguette
 	url = https://github.com/tidymodels/baguette
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "broom"]
 	path = broom
 	url = https://github.com/tidymodels/broom
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "butcher"]
 	path = butcher
 	url = https://github.com/tidymodels/butcher
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "corrr"]
 	path = corrr
 	url = https://github.com/tidymodels/corrr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "dials"]
 	path = dials
 	url = https://github.com/tidymodels/dials
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "discrim"]
 	path = discrim
 	url = https://github.com/tidymodels/discrim
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "embed"]
 	path = embed
 	url = https://github.com/tidymodels/embed
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "finetune"]
 	path = finetune
 	url = https://github.com/tidymodels/finetune
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "hardhat"]
 	path = hardhat
 	url = https://github.com/tidymodels/hardhat
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "infer"]
 	path = infer
 	url = https://github.com/tidymodels/infer
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/tidymodels/tidymodels
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "modeldb"]
 	path = modeldb
 	url = https://github.com/tidymodels/modeldb
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "parsnip"]
 	path = parsnip
 	url = https://github.com/tidymodels/parsnip
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "plsmod"]
 	path = plsmod
 	url = https://github.com/tidymodels/plsmod
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "poissonreg"]
 	path = poissonreg
 	url = https://github.com/tidymodels/poissonreg
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "probably"]
 	path = probably
 	url = https://github.com/tidymodels/probably
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "recipes"]
 	path = recipes
 	url = https://github.com/tidymodels/recipes
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rsample"]
 	path = rsample
 	url = https://github.com/tidymodels/rsample
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rules"]
 	path = rules
 	url = https://github.com/tidymodels/rules
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "spatialsample"]
 	path = spatialsample
 	url = https://github.com/tidymodels/spatialsample
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "stacks"]
 	path = stacks
 	url = https://github.com/tidymodels/stacks
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "textrecipes"]
 	path = textrecipes
 	url = https://github.com/tidymodels/textrecipes
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "themis"]
 	path = themis
 	url = https://github.com/tidymodels/themis
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/tidymodels/tidymodels
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tidyposterior"]
 	path = tidyposterior
 	url = https://github.com/tidymodels/tidyposterior
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tidypredict"]
 	path = tidypredict
 	url = https://github.com/tidymodels/tidypredict
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tune"]
 	path = tune
 	url = https://github.com/tidymodels/tune
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "usemodels"]
 	path = usemodels
 	url = https://github.com/tidymodels/usemodels
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "workflows"]
 	path = workflows
 	url = https://github.com/tidymodels/workflows
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "workflowsets"]
 	path = workflowsets
 	url = https://github.com/tidymodels/workflowsets
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "yardstick"]
 	path = yardstick
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
 	registered = true
+	oncran = true
