@@ -1,0 +1,130 @@
+[
+  {
+    "package": "applicable",
+    "oncran": true
+  },
+  {
+    "package": "baguette",
+    "oncran": true
+  },
+  {
+    "package": "broom",
+    "oncran": true
+  },
+  {
+    "package": "butcher",
+    "oncran": true
+  },
+  {
+    "package": "corrr",
+    "oncran": true
+  },
+  {
+    "package": "dials",
+    "oncran": true
+  },
+  {
+    "package": "discrim",
+    "oncran": true
+  },
+  {
+    "package": "embed",
+    "oncran": true
+  },
+  {
+    "package": "finetune",
+    "oncran": true
+  },
+  {
+    "package": "hardhat",
+    "oncran": true
+  },
+  {
+    "package": "infer",
+    "oncran": true
+  },
+  {
+    "package": "modeldata",
+    "oncran": true
+  },
+  {
+    "package": "modeldb",
+    "oncran": true
+  },
+  {
+    "package": "parsnip",
+    "oncran": true
+  },
+  {
+    "package": "plsmod",
+    "oncran": true
+  },
+  {
+    "package": "poissonreg",
+    "oncran": true
+  },
+  {
+    "package": "probably",
+    "oncran": true
+  },
+  {
+    "package": "recipes",
+    "oncran": true
+  },
+  {
+    "package": "rsample",
+    "oncran": true
+  },
+  {
+    "package": "rules",
+    "oncran": true
+  },
+  {
+    "package": "spatialsample",
+    "oncran": true
+  },
+  {
+    "package": "stacks",
+    "oncran": true
+  },
+  {
+    "package": "textrecipes",
+    "oncran": true
+  },
+  {
+    "package": "themis",
+    "oncran": true
+  },
+  {
+    "package": "tidymodels",
+    "oncran": true
+  },
+  {
+    "package": "tidyposterior",
+    "oncran": true
+  },
+  {
+    "package": "tidypredict",
+    "oncran": true
+  },
+  {
+    "package": "tune",
+    "oncran": true
+  },
+  {
+    "package": "usemodels",
+    "oncran": true
+  },
+  {
+    "package": "workflows",
+    "oncran": true
+  },
+  {
+    "package": "workflowsets",
+    "oncran": true
+  },
+  {
+    "package": "yardstick",
+    "oncran": true
+  }
+]
