@@ -1,5 +1,11 @@
 [
   {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["butcher"],
+    "from": "butcher"
+  },
+  {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["embed"],
