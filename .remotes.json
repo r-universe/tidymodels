@@ -1,5 +1,17 @@
 [
   {
+    "package": "C5.0",
+    "url": "https://github.com/topepo/C5.0",
+    "via": ["parsnip"],
+    "from": "parsnip"
+  },
+  {
+    "package": "Cubist",
+    "url": "https://github.com/topepo/Cubist",
+    "via": ["parsnip", "C50"],
+    "from": "parsnip"
+  },
+  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["butcher"],
