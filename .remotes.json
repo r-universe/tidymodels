@@ -2,8 +2,20 @@
   {
     "package": "C5.0",
     "url": "https://github.com/topepo/C5.0",
+    "via": ["baguette"],
+    "from": "baguette"
+  },
+  {
+    "package": "C5.0",
+    "url": "https://github.com/topepo/C5.0",
     "via": ["parsnip"],
     "from": "parsnip"
+  },
+  {
+    "package": "Cubist",
+    "url": "https://github.com/topepo/Cubist",
+    "via": ["baguette", "C50"],
+    "from": "baguette"
   },
   {
     "package": "Cubist",
