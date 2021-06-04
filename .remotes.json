@@ -18,12 +18,6 @@
     "from": "baguette"
   },
   {
-    "package": "Cubist",
-    "url": "https://github.com/topepo/Cubist",
-    "via": ["parsnip", "C50"],
-    "from": "parsnip"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["butcher"],
