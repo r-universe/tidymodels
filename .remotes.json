@@ -18,12 +18,6 @@
     "from": "recipes"
   },
   {
-    "package": "Cubist",
-    "url": "https://github.com/topepo/Cubist",
-    "via": ["baguette", "C50"],
-    "from": "baguette"
-  },
-  {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
     "via": ["parsnip"],

@@ -168,8 +168,3 @@
 	url = https://github.com/topepo/C5.0
 	shallow = true
 	registered = false
-[submodule "Cubist"]
-	path = Cubist
-	url = https://github.com/topepo/Cubist
-	shallow = true
-	registered = false
