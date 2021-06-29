@@ -12,6 +12,12 @@
     "from": "parsnip"
   },
   {
+    "package": "C5.0",
+    "url": "https://github.com/topepo/C5.0",
+    "via": ["recipes", "parsnip"],
+    "from": "recipes"
+  },
+  {
     "package": "Cubist",
     "url": "https://github.com/topepo/Cubist",
     "via": ["baguette", "C50"],
@@ -22,5 +28,17 @@
     "url": "https://github.com/tidymodels/dials",
     "via": ["parsnip"],
     "from": "parsnip"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["recipes", "parsnip"],
+    "from": "recipes"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["recipes"],
+    "from": "recipes"
   }
 ]
