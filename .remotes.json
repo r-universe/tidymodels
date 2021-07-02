@@ -38,6 +38,18 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflows"],
     "from": "workflows"
   },
@@ -46,5 +58,11 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["recipes"],
     "from": "recipes"
+  },
+  {
+    "package": "workflows",
+    "url": "https://github.com/tidymodels/workflows",
+    "via": ["tune"],
+    "from": "tune"
   }
 ]
