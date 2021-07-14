@@ -2,12 +2,6 @@
   {
     "package": "C5.0",
     "url": "https://github.com/topepo/C5.0",
-    "via": ["baguette"],
-    "from": "baguette"
-  },
-  {
-    "package": "C5.0",
-    "url": "https://github.com/topepo/C5.0",
     "via": ["parsnip"],
     "from": "parsnip"
   },
