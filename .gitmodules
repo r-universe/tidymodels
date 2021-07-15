@@ -60,7 +60,7 @@
 	registered = true
 [submodule "modeldata"]
 	path = modeldata
-	url = https://github.com/tidymodels/tidymodels
+	url = https://github.com/tidymodels/modeldata
 	shallow = true
 	registered = true
 [submodule "modeldb"]
