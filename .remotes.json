@@ -2,6 +2,12 @@
   {
     "package": "C5.0",
     "url": "https://github.com/topepo/C5.0",
+    "via": ["discrim", "parsnip"],
+    "from": "discrim"
+  },
+  {
+    "package": "C5.0",
+    "url": "https://github.com/topepo/C5.0",
     "via": ["parsnip"],
     "from": "parsnip"
   },
@@ -14,6 +20,12 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
+    "via": ["discrim", "parsnip"],
+    "from": "discrim"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
     "via": ["parsnip"],
     "from": "parsnip"
   },
@@ -22,6 +34,12 @@
     "url": "https://github.com/tidymodels/dials",
     "via": ["recipes", "parsnip"],
     "from": "recipes"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["discrim", "parsnip"],
+    "from": "discrim"
   },
   {
     "package": "hardhat",
@@ -58,6 +76,13 @@
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflowsets", "workflows"],
     "from": "workflowsets"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["discrim"],
+    "branch": "more-doc-tools",
+    "from": "discrim"
   },
   {
     "package": "parsnip",
