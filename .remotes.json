@@ -20,12 +20,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflowsets"],
     "from": "workflowsets"
   },
@@ -46,12 +40,6 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["recipes"],
     "from": "recipes"
-  },
-  {
-    "package": "workflows",
-    "url": "https://github.com/tidymodels/workflows",
-    "via": ["tune"],
-    "from": "tune"
   },
   {
     "package": "workflows",
