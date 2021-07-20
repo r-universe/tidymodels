@@ -163,8 +163,3 @@
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
 	registered = true
-[submodule "C5.0"]
-	path = C5.0
-	url = https://github.com/topepo/C5.0
-	shallow = true
-	registered = false

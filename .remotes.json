@@ -1,11 +1,5 @@
 [
   {
-    "package": "C5.0",
-    "url": "https://github.com/topepo/C5.0",
-    "via": ["discrim", "parsnip"],
-    "from": "discrim"
-  },
-  {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
     "via": ["discrim", "parsnip"],
@@ -22,12 +16,6 @@
     "url": "https://github.com/tidymodels/dials",
     "via": ["recipes", "parsnip"],
     "from": "recipes"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["discrim", "parsnip"],
-    "from": "discrim"
   },
   {
     "package": "hardhat",
@@ -51,7 +39,6 @@
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["discrim"],
-    "branch": "more-doc-tools",
     "from": "discrim"
   },
   {
