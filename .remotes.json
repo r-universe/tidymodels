@@ -6,21 +6,9 @@
     "from": "recipes"
   },
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflowsets"],
-    "from": "workflowsets"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["recipes"],
     "from": "recipes"
-  },
-  {
-    "package": "workflows",
-    "url": "https://github.com/tidymodels/workflows",
-    "via": ["workflowsets"],
-    "from": "workflowsets"
   }
 ]
