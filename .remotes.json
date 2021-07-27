@@ -1,11 +1,5 @@
 [
   {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
-    "via": ["recipes", "parsnip"],
-    "from": "recipes"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["recipes"],
