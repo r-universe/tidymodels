@@ -10,5 +10,11 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["discrim"],
     "from": "discrim"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["poissonreg"],
+    "from": "poissonreg"
   }
 ]
