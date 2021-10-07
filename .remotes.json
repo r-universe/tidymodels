@@ -14,6 +14,12 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
+    "via": ["plsmod"],
+    "from": "plsmod"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
     "via": ["poissonreg"],
     "from": "poissonreg"
   },
