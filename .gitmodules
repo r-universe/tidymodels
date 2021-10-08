@@ -163,3 +163,8 @@
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
 	registered = true
+[submodule "generics"]
+	path = generics
+	url = https://github.com/r-lib/generics
+	shallow = true
+	registered = false
