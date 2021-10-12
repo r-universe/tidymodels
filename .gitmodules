@@ -8,11 +8,6 @@
 	url = https://github.com/tidymodels/applicable
 	shallow = true
 	registered = true
-[submodule "baguette"]
-	path = baguette
-	url = https://github.com/tidymodels/baguette
-	shallow = true
-	registered = true
 [submodule "broom"]
 	path = broom
 	url = https://github.com/tidymodels/broom
@@ -31,11 +26,6 @@
 [submodule "dials"]
 	path = dials
 	url = https://github.com/tidymodels/dials
-	shallow = true
-	registered = true
-[submodule "discrim"]
-	path = discrim
-	url = https://github.com/tidymodels/discrim
 	shallow = true
 	registered = true
 [submodule "embed"]
@@ -73,16 +63,6 @@
 	url = https://github.com/tidymodels/parsnip
 	shallow = true
 	registered = true
-[submodule "plsmod"]
-	path = plsmod
-	url = https://github.com/tidymodels/plsmod
-	shallow = true
-	registered = true
-[submodule "poissonreg"]
-	path = poissonreg
-	url = https://github.com/tidymodels/poissonreg
-	shallow = true
-	registered = true
 [submodule "probably"]
 	path = probably
 	url = https://github.com/tidymodels/probably
@@ -96,11 +76,6 @@
 [submodule "rsample"]
 	path = rsample
 	url = https://github.com/tidymodels/rsample
-	shallow = true
-	registered = true
-[submodule "rules"]
-	path = rules
-	url = https://github.com/tidymodels/rules
 	shallow = true
 	registered = true
 [submodule "spatialsample"]
@@ -136,11 +111,6 @@
 [submodule "tidypredict"]
 	path = tidypredict
 	url = https://github.com/tidymodels/tidypredict
-	shallow = true
-	registered = true
-[submodule "tune"]
-	path = tune
-	url = https://github.com/tidymodels/tune
 	shallow = true
 	registered = true
 [submodule "usemodels"]
