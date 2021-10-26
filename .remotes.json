@@ -1,11 +1,5 @@
 [
   {
-    "package": "generics",
-    "url": "https://github.com/r-lib/generics",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
@@ -34,5 +28,23 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["rules"],
     "from": "rules"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "workflows",
+    "url": "https://github.com/tidymodels/workflows",
+    "via": ["tune"],
+    "from": "tune"
   }
 ]
