@@ -116,6 +116,10 @@
     "oncran": true
   },
   {
+    "package": "vetiver",
+    "oncran": true
+  },
+  {
     "package": "workflows",
     "oncran": true
   },
