@@ -168,3 +168,13 @@
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
 	registered = true
+[submodule "mlr3"]
+	path = mlr3
+	url = https://github.com/mlr-org/mlr3
+	shallow = true
+	registered = false
+[submodule "mlr3learners"]
+	path = mlr3learners
+	url = https://github.com/mlr-org/mlr3learners
+	shallow = true
+	registered = false
