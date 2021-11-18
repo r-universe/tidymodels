@@ -80,6 +80,10 @@
     "oncran": true
   },
   {
+    "package": "shinymodels",
+    "oncran": true
+  },
+  {
     "package": "spatialsample",
     "oncran": true
   },

@@ -103,6 +103,11 @@
 	url = https://github.com/tidymodels/rules
 	shallow = true
 	registered = true
+[submodule "shinymodels"]
+	path = shinymodels
+	url = https://github.com/tidymodels/shinymodels
+	shallow = true
+	registered = true
 [submodule "spatialsample"]
 	path = spatialsample
 	url = https://github.com/tidymodels/spatialsample
