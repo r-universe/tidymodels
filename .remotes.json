@@ -1,5 +1,11 @@
 [
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["parsnip"],
+    "from": "parsnip"
+  },
+  {
     "package": "mlr3",
     "url": "https://github.com/mlr-org/mlr3",
     "via": ["vetiver"],
