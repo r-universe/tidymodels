@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "brulee",
+    "oncran": true
+  },
+  {
     "package": "butcher",
     "oncran": true
   },

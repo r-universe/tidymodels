@@ -18,6 +18,11 @@
 	url = https://github.com/tidymodels/broom
 	shallow = true
 	registered = true
+[submodule "brulee"]
+	path = brulee
+	url = https://github.com/tidymodels/brulee
+	shallow = true
+	registered = true
 [submodule "butcher"]
 	path = butcher
 	url = https://github.com/tidymodels/butcher
