@@ -6,18 +6,6 @@
     "from": "parsnip"
   },
   {
-    "package": "mlr3",
-    "url": "https://github.com/mlr-org/mlr3",
-    "via": ["vetiver"],
-    "from": "vetiver"
-  },
-  {
-    "package": "mlr3learners",
-    "url": "https://github.com/mlr-org/mlr3learners",
-    "via": ["vetiver"],
-    "from": "vetiver"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
