@@ -50,6 +50,12 @@
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
+    "via": ["themis"],
+    "from": "themis"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
     "via": ["tune"],
     "from": "tune"
   },
