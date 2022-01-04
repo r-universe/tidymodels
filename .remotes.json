@@ -44,6 +44,12 @@
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
+    "via": ["textrecipes"],
+    "from": "textrecipes"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
     "via": ["tune"],
     "from": "tune"
   },
