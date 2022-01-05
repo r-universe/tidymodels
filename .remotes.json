@@ -18,6 +18,12 @@
     "from": "rules"
   },
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["tune", "parsnip"],
+    "from": "tune"
+  },
+  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
