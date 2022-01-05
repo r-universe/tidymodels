@@ -12,6 +12,12 @@
     "from": "plsmod"
   },
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["rules", "parsnip"],
+    "from": "rules"
+  },
+  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
