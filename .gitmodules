@@ -63,11 +63,6 @@
 	url = https://github.com/tidymodels/infer
 	shallow = true
 	registered = true
-[submodule "modeldata"]
-	path = modeldata
-	url = https://github.com/tidymodels/modeldata
-	shallow = true
-	registered = true
 [submodule "modeldb"]
 	path = modeldb
 	url = https://github.com/tidymodels/modeldb
