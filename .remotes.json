@@ -36,6 +36,24 @@
     "from": "tune"
   },
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["workflows", "parsnip"],
+    "from": "workflows"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["workflows", "recipes"],
+    "from": "workflows"
+  },
+  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["dials"],
@@ -70,6 +88,42 @@
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune"],
     "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows", "dials"],
+    "from": "workflows"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows", "parsnip", "dials"],
+    "from": "workflows"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows", "parsnip"],
+    "from": "workflows"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows", "recipes", "dials"],
+    "from": "workflows"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows", "recipes"],
+    "from": "workflows"
   },
   {
     "package": "parsnip",
@@ -108,6 +162,12 @@
     "from": "tune"
   },
   {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["textrecipes"],
@@ -124,6 +184,12 @@
     "url": "https://github.com/tidymodels/recipes",
     "via": ["tune"],
     "from": "tune"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["workflows"],
+    "from": "workflows"
   },
   {
     "package": "workflows",
