@@ -92,6 +92,18 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["plsmod", "parsnip", "dials"],
+    "from": "plsmod"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["plsmod", "parsnip"],
+    "from": "plsmod"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["recipes", "dials"],
     "from": "recipes"
   },
