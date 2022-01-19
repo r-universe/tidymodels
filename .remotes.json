@@ -8,6 +8,12 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
+    "via": ["discrim", "parsnip"],
+    "from": "discrim"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
     "via": ["parsnip"],
     "from": "parsnip"
   },
@@ -58,6 +64,18 @@
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["dials"],
     "from": "dials"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["discrim", "parsnip", "dials"],
+    "from": "discrim"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["discrim", "parsnip"],
+    "from": "discrim"
   },
   {
     "package": "hardhat",
