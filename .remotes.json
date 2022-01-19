@@ -134,6 +134,18 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["rules", "parsnip", "dials"],
+    "from": "rules"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["rules", "parsnip"],
+    "from": "rules"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune"],
     "from": "tune"
   },
