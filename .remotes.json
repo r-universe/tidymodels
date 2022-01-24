@@ -62,6 +62,30 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
+    "via": ["tune", "recipes"],
+    "from": "tune"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["tune", "workflows"],
+    "from": "tune"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["tune", "workflows", "parsnip"],
+    "from": "tune"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["tune", "workflows", "recipes"],
+    "from": "tune"
+  },
+  {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
     "via": ["workflows"],
     "from": "workflows"
   },
@@ -200,6 +224,66 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "parsnip", "dials"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "parsnip"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "recipes", "dials"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "recipes"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows", "dials"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows", "parsnip", "dials"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows", "parsnip"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows", "recipes", "dials"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows", "recipes"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflows", "dials"],
     "from": "workflows"
   },
@@ -272,6 +356,12 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
+    "via": ["tune", "workflows"],
+    "from": "tune"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
     "via": ["workflows"],
     "from": "workflows"
   },
@@ -291,6 +381,12 @@
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["tune", "workflows"],
     "from": "tune"
   },
   {
