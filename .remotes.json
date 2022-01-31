@@ -116,12 +116,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["dials"],
-    "from": "dials"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["discrim", "parsnip", "dials"],
     "from": "discrim"
   },
