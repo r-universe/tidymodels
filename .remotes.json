@@ -146,12 +146,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["themis", "recipes", "dials"],
-    "from": "themis"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["themis", "recipes"],
     "from": "themis"
   },
