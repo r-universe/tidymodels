@@ -2,12 +2,6 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
-    "via": ["poissonreg", "parsnip"],
-    "from": "poissonreg"
-  },
-  {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
     "via": ["recipes"],
     "from": "recipes"
   },
@@ -64,12 +58,6 @@
     "url": "https://github.com/tidymodels/dials",
     "via": ["workflows", "recipes"],
     "from": "workflows"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["poissonreg", "parsnip"],
-    "from": "poissonreg"
   },
   {
     "package": "hardhat",
