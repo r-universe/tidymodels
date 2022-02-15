@@ -2,12 +2,6 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
-    "via": ["baguette", "parsnip"],
-    "from": "baguette"
-  },
-  {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
     "via": ["discrim", "parsnip"],
     "from": "discrim"
   },
@@ -82,18 +76,6 @@
     "url": "https://github.com/tidymodels/dials",
     "via": ["workflows", "recipes"],
     "from": "workflows"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["baguette", "parsnip", "dials"],
-    "from": "baguette"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["baguette", "parsnip"],
-    "from": "baguette"
   },
   {
     "package": "hardhat",
