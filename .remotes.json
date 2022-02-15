@@ -8,12 +8,6 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
-    "via": ["rules", "parsnip"],
-    "from": "rules"
-  },
-  {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
     "via": ["textrecipes", "recipes"],
     "from": "textrecipes"
   },
@@ -64,12 +58,6 @@
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["recipes"],
     "from": "recipes"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["rules", "parsnip"],
-    "from": "rules"
   },
   {
     "package": "hardhat",
