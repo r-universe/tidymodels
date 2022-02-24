@@ -6,12 +6,6 @@
     "from": "themis"
   },
   {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
-    "via": ["tune", "workflows"],
-    "from": "tune"
-  },
-  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["themis", "recipes"],
@@ -21,12 +15,6 @@
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune"],
-    "from": "tune"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["tune", "workflows"],
     "from": "tune"
   },
   {
@@ -93,12 +81,6 @@
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["tune"],
-    "from": "tune"
-  },
-  {
-    "package": "recipes",
-    "url": "https://github.com/tidymodels/recipes",
-    "via": ["tune", "workflows"],
     "from": "tune"
   },
   {
