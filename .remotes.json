@@ -1,17 +1,5 @@
 [
   {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
-    "via": ["themis", "recipes"],
-    "from": "themis"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["themis", "recipes"],
-    "from": "themis"
-  },
-  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune"],
