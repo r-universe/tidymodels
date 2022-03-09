@@ -14,12 +14,6 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
-    "via": ["poissonreg"],
-    "from": "poissonreg"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
     "via": ["rules"],
     "from": "rules"
   },
