@@ -18,12 +18,6 @@
     "from": "tune"
   },
   {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["tune", "workflows"],
-    "from": "tune"
-  },
-  {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["textrecipes"],
