@@ -73,6 +73,11 @@
 	url = https://github.com/tidymodels/modeldb
 	shallow = true
 	registered = true
+[submodule "multilevelmod"]
+	path = multilevelmod
+	url = https://github.com/tidymodels/multilevelmod
+	shallow = true
+	registered = true
 [submodule "parsnip"]
 	path = parsnip
 	url = https://github.com/tidymodels/parsnip
