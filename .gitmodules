@@ -165,7 +165,7 @@
 	registered = true
 [submodule "vetiver"]
 	path = vetiver
-	url = https://github.com/tidymodels/vetiver
+	url = https://github.com/tidymodels/vetiver-r
 	shallow = true
 	registered = true
 [submodule "workflows"]
