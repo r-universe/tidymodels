@@ -36,9 +36,6 @@
     "oncran": true
   },
   {
-    "package": "finetune"
-  },
-  {
     "package": "hardhat",
     "oncran": true
   },

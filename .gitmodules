@@ -48,11 +48,6 @@
 	url = https://github.com/tidymodels/embed
 	shallow = true
 	registered = true
-[submodule "finetune"]
-	path = finetune
-	url = https://github.com/tidymodels/finetune
-	shallow = true
-	registered = true
 [submodule "hardhat"]
 	path = hardhat
 	url = https://github.com/tidymodels/hardhat
