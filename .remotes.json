@@ -4,11 +4,5 @@
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["yardstick"],
     "from": "yardstick"
-  },
-  {
-    "package": "recipes",
-    "url": "https://github.com/tidymodels/recipes",
-    "via": ["themis"],
-    "from": "themis"
   }
 ]
