@@ -2,6 +2,12 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["yardstick"],
     "from": "yardstick"
   },
@@ -16,5 +22,19 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["discrim"],
     "from": "discrim"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflows"],
+    "branch": "feature/case-weights",
+    "from": "workflows"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["workflows"],
+    "branch": "case-weights",
+    "from": "workflows"
   }
 ]
