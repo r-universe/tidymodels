@@ -2,6 +2,24 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "yardstick"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflows"],
     "from": "workflows"
   },
@@ -26,6 +44,20 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
+    "via": ["tune"],
+    "branch": "feature/case-weights",
+    "from": "tune"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["tune", "workflows"],
+    "branch": "feature/case-weights",
+    "from": "tune"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
     "via": ["workflows"],
     "branch": "feature/case-weights",
     "from": "workflows"
@@ -33,8 +65,27 @@
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
+    "via": ["tune", "workflows"],
+    "branch": "case-weights",
+    "from": "tune"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
     "via": ["workflows"],
     "branch": "case-weights",
     "from": "workflows"
+  },
+  {
+    "package": "workflows",
+    "url": "https://github.com/tidymodels/workflows",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["tune"],
+    "from": "tune"
   }
 ]
