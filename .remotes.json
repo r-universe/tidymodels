@@ -14,6 +14,12 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "workflows", "recipes"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune"],
     "from": "tune"
   },
