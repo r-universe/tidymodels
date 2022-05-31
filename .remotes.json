@@ -44,6 +44,60 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "recipes"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "tune", "workflows"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "tune", "workflows", "recipes"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "tune"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "tune", "yardstick"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "workflows"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "workflows", "recipes"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflowsets", "yardstick"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["yardstick"],
     "from": "yardstick"
   },
@@ -81,6 +135,34 @@
     "from": "workflows"
   },
   {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflowsets"],
+    "branch": "feature/case-weights",
+    "from": "workflowsets"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflowsets", "tune"],
+    "branch": "feature/case-weights",
+    "from": "workflowsets"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflowsets", "tune", "workflows"],
+    "branch": "feature/case-weights",
+    "from": "workflowsets"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflowsets", "workflows"],
+    "branch": "feature/case-weights",
+    "from": "workflowsets"
+  },
+  {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["tune", "workflows"],
@@ -95,15 +177,65 @@
     "from": "workflows"
   },
   {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["workflowsets"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["workflowsets", "tune", "workflows"],
+    "branch": "case-weights",
+    "from": "workflowsets"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["workflowsets", "workflows"],
+    "branch": "case-weights",
+    "from": "workflowsets"
+  },
+  {
+    "package": "tune",
+    "url": "https://github.com/tidymodels/tune",
+    "via": ["workflowsets"],
+    "from": "workflowsets"
+  },
+  {
     "package": "workflows",
     "url": "https://github.com/tidymodels/workflows",
     "via": ["tune"],
     "from": "tune"
   },
   {
+    "package": "workflows",
+    "url": "https://github.com/tidymodels/workflows",
+    "via": ["workflowsets", "tune"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "workflows",
+    "url": "https://github.com/tidymodels/workflows",
+    "via": ["workflowsets"],
+    "from": "workflowsets"
+  },
+  {
     "package": "yardstick",
     "url": "https://github.com/tidymodels/yardstick",
     "via": ["tune"],
     "from": "tune"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["workflowsets", "tune"],
+    "from": "workflowsets"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["workflowsets"],
+    "from": "workflowsets"
   }
 ]
