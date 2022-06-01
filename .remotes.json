@@ -8,6 +8,30 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["agua", "tune", "workflows"],
+    "from": "agua"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["agua", "tune", "workflows", "recipes"],
+    "from": "agua"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["agua", "tune"],
+    "from": "agua"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["agua", "tune", "yardstick"],
+    "from": "agua"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["recipes"],
     "from": "recipes"
   },
@@ -104,6 +128,26 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
+    "via": ["agua", "tune"],
+    "branch": "feature/case-weights",
+    "from": "agua"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["agua", "tune", "workflows"],
+    "branch": "feature/case-weights",
+    "from": "agua"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["agua"],
+    "from": "agua"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
     "from": "baguette"
   },
@@ -165,6 +209,13 @@
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
+    "via": ["agua", "tune", "workflows"],
+    "branch": "case-weights",
+    "from": "agua"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
     "via": ["tune", "workflows"],
     "branch": "case-weights",
     "from": "tune"
@@ -199,8 +250,20 @@
   {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
+    "via": ["agua"],
+    "from": "agua"
+  },
+  {
+    "package": "tune",
+    "url": "https://github.com/tidymodels/tune",
     "via": ["workflowsets"],
     "from": "workflowsets"
+  },
+  {
+    "package": "workflows",
+    "url": "https://github.com/tidymodels/workflows",
+    "via": ["agua", "tune"],
+    "from": "agua"
   },
   {
     "package": "workflows",
@@ -219,6 +282,12 @@
     "url": "https://github.com/tidymodels/workflows",
     "via": ["workflowsets"],
     "from": "workflowsets"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["agua", "tune"],
+    "from": "agua"
   },
   {
     "package": "yardstick",
