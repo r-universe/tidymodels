@@ -1,5 +1,9 @@
 [
   {
+    "package": "agua",
+    "oncran": true
+  },
+  {
     "package": "applicable",
     "oncran": true
   },
