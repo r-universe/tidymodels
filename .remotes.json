@@ -68,12 +68,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflowsets", "tune", "workflows"],
-    "from": "workflowsets"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflowsets", "tune", "workflows", "recipes"],
     "from": "workflowsets"
   },
@@ -86,25 +80,7 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflowsets", "tune", "yardstick"],
-    "from": "workflowsets"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflowsets", "workflows"],
-    "from": "workflowsets"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflowsets", "workflows", "recipes"],
-    "from": "workflowsets"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflowsets", "yardstick"],
     "from": "workflowsets"
   },
   {
@@ -161,28 +137,24 @@
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["workflowsets"],
-    "branch": "feature/case-weights",
     "from": "workflowsets"
   },
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["workflowsets", "tune"],
-    "branch": "feature/case-weights",
     "from": "workflowsets"
   },
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["workflowsets", "tune", "workflows"],
-    "branch": "feature/case-weights",
     "from": "workflowsets"
   },
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["workflowsets", "workflows"],
-    "branch": "feature/case-weights",
     "from": "workflowsets"
   },
   {
@@ -214,14 +186,12 @@
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["workflowsets", "tune", "workflows"],
-    "branch": "case-weights",
     "from": "workflowsets"
   },
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["workflowsets", "workflows"],
-    "branch": "case-weights",
     "from": "workflowsets"
   },
   {
