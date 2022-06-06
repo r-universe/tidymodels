@@ -50,7 +50,7 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflows"],
+    "via": ["workflows", "recipes"],
     "from": "workflows"
   },
   {
@@ -155,7 +155,6 @@
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["workflows"],
-    "branch": "feature/case-weights",
     "from": "workflows"
   },
   {
@@ -203,7 +202,6 @@
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["workflows"],
-    "branch": "case-weights",
     "from": "workflows"
   },
   {
