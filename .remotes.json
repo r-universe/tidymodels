@@ -8,12 +8,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["agua", "tune", "workflows"],
-    "from": "agua"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["agua", "tune", "workflows", "recipes"],
     "from": "agua"
   },
@@ -21,12 +15,6 @@
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["agua", "tune"],
-    "from": "agua"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["agua", "tune", "yardstick"],
     "from": "agua"
   },
   {
@@ -87,14 +75,12 @@
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["agua", "tune"],
-    "branch": "feature/case-weights",
     "from": "agua"
   },
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["agua", "tune", "workflows"],
-    "branch": "feature/case-weights",
     "from": "agua"
   },
   {
@@ -168,7 +154,6 @@
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["agua", "tune", "workflows"],
-    "branch": "case-weights",
     "from": "agua"
   },
   {
