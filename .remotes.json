@@ -8,12 +8,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["agua", "tune", "workflows", "recipes"],
-    "from": "agua"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["agua", "tune"],
     "from": "agua"
   },
