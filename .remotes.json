@@ -80,12 +80,6 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
-    "via": ["baguette"],
-    "from": "baguette"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
     "via": ["discrim"],
     "from": "discrim"
   },
