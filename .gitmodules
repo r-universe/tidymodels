@@ -18,6 +18,11 @@
 	url = https://github.com/tidymodels/baguette
 	shallow = true
 	registered = true
+[submodule "bonsai"]
+	path = bonsai
+	url = https://github.com/tidymodels/bonsai
+	shallow = true
+	registered = true
 [submodule "broom"]
 	path = broom
 	url = https://github.com/tidymodels/broom

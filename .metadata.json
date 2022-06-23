@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "bonsai",
+    "oncran": true
+  },
+  {
     "package": "broom",
     "oncran": true
   },
