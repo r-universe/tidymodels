@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "censored",
+    "oncran": true
+  },
+  {
     "package": "corrr",
     "oncran": true
   },
