@@ -1,11 +1,5 @@
 [
   {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
-    "via": ["rules"],
-    "from": "rules"
-  },
-  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["agua", "tune"],
@@ -70,13 +64,6 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["agua"],
     "from": "agua"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["rules"],
-    "branch": "rule-fit-stop-iter",
-    "from": "rules"
   },
   {
     "package": "parsnip",
