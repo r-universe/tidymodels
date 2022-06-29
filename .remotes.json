@@ -8,6 +8,12 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["recipes"],
+    "from": "recipes"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune"],
     "from": "tune"
   },
