@@ -14,12 +14,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflows", "recipes"],
-    "from": "workflows"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["workflowsets"],
     "from": "workflowsets"
   },
