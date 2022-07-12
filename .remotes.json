@@ -1,50 +1,14 @@
 [
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["agua", "tune"],
-    "from": "agua"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["agua", "tune"],
-    "from": "agua"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["agua", "tune", "workflows"],
-    "from": "agua"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["agua"],
-    "from": "agua"
-  },
-  {
-    "package": "recipes",
-    "url": "https://github.com/tidymodels/recipes",
-    "via": ["agua", "tune", "workflows"],
     "from": "agua"
   },
   {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["agua"],
-    "from": "agua"
-  },
-  {
-    "package": "workflows",
-    "url": "https://github.com/tidymodels/workflows",
-    "via": ["agua", "tune"],
-    "from": "agua"
-  },
-  {
-    "package": "yardstick",
-    "url": "https://github.com/tidymodels/yardstick",
-    "via": ["agua", "tune"],
     "from": "agua"
   }
 ]
