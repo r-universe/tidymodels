@@ -6,12 +6,6 @@
     "from": "agua"
   },
   {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["bonsai"],
-    "from": "bonsai"
-  },
-  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["agua"],
