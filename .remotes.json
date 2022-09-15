@@ -6,6 +6,13 @@
     "from": "agua"
   },
   {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["finetune"],
+    "branch": "control_control",
+    "from": "finetune"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["agua"],
