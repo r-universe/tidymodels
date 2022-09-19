@@ -40,10 +40,6 @@
     "oncran": true
   },
   {
-    "package": "discrim",
-    "oncran": true
-  },
-  {
     "package": "embed",
     "oncran": true
   },
