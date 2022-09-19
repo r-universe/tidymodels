@@ -53,6 +53,11 @@
 	url = https://github.com/tidymodels/dials
 	shallow = true
 	registered = true
+[submodule "discrim"]
+	path = discrim
+	url = https://github.com/tidymodels/discrim
+	shallow = true
+	registered = true
 [submodule "embed"]
 	path = embed
 	url = https://github.com/tidymodels/embed
