@@ -9,7 +9,6 @@
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["finetune"],
-    "branch": "control_control",
     "from": "finetune"
   },
   {
