@@ -56,15 +56,7 @@
     "oncran": true
   },
   {
-    "package": "infer",
-    "oncran": true
-  },
-  {
     "package": "modeldata",
-    "oncran": true
-  },
-  {
-    "package": "modeldb",
     "oncran": true
   },
   {

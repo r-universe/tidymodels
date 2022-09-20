@@ -73,19 +73,9 @@
 	url = https://github.com/tidymodels/hardhat
 	shallow = true
 	registered = true
-[submodule "infer"]
-	path = infer
-	url = https://github.com/tidymodels/infer
-	shallow = true
-	registered = true
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/tidymodels/modeldata
-	shallow = true
-	registered = true
-[submodule "modeldb"]
-	path = modeldb
-	url = https://github.com/tidymodels/modeldb
 	shallow = true
 	registered = true
 [submodule "multilevelmod"]
