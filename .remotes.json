@@ -12,6 +12,12 @@
     "from": "finetune"
   },
   {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["agua"],
