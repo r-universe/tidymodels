@@ -14,6 +14,12 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
+    "via": ["stacks"],
+    "from": "stacks"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune"],
     "from": "tune"
   },
