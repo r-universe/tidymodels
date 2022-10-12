@@ -2,18 +2,6 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
-    "via": ["agua", "tune"],
-    "from": "agua"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["agua"],
-    "from": "agua"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
     "from": "baguette"
   },
@@ -22,11 +10,5 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["stacks"],
     "from": "stacks"
-  },
-  {
-    "package": "tune",
-    "url": "https://github.com/tidymodels/tune",
-    "via": ["agua"],
-    "from": "agua"
   }
 ]
