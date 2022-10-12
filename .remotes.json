@@ -20,12 +20,6 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
-    "via": ["finetune"],
-    "from": "finetune"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
     "via": ["stacks"],
     "from": "stacks"
   },
