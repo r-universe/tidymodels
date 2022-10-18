@@ -88,6 +88,11 @@
 	url = https://github.com/tidymodels/modeldb
 	shallow = true
 	registered = true
+[submodule "modelenv"]
+	path = modelenv
+	url = https://github.com/tidymodels/modelenv
+	shallow = true
+	registered = true
 [submodule "multilevelmod"]
 	path = multilevelmod
 	url = https://github.com/tidymodels/multilevelmod
