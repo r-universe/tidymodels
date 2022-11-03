@@ -1,5 +1,11 @@
 [
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["parsnip"],
+    "from": "parsnip"
+  },
+  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
