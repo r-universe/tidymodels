@@ -2,12 +2,6 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
-    "via": ["parsnip"],
-    "from": "parsnip"
-  },
-  {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
     "via": ["stacks", "parsnip"],
     "from": "stacks"
   },
