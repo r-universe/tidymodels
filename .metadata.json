@@ -124,6 +124,10 @@
     "oncran": true
   },
   {
+    "package": "tidyclust",
+    "oncran": true
+  },
+  {
     "package": "tidymodels",
     "oncran": true
   },

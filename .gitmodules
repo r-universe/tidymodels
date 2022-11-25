@@ -158,6 +158,11 @@
 	url = https://github.com/tidymodels/themis
 	shallow = true
 	registered = true
+[submodule "tidyclust"]
+	path = tidyclust
+	url = https://github.com/tidymodels/tidyclust
+	shallow = true
+	registered = true
 [submodule "tidymodels"]
 	path = tidymodels
 	url = https://github.com/tidymodels/tidymodels
