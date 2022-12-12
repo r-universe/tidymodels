@@ -1,11 +1,5 @@
 [
   {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
-    "via": ["stacks", "parsnip"],
-    "from": "stacks"
-  },
-  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["yardstick"],
