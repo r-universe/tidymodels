@@ -16,11 +16,5 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["censored"],
     "from": "censored"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["stacks"],
-    "from": "stacks"
   }
 ]
