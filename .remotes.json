@@ -2,6 +2,12 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["probably", "yardstick"],
+    "from": "probably"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["yardstick"],
     "from": "yardstick"
   },
@@ -10,5 +16,12 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["baguette"],
     "from": "baguette"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["probably"],
+    "branch": "5f1b9ce",
+    "from": "probably"
   }
 ]
