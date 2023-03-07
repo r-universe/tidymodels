@@ -24,10 +24,28 @@
     "from": "baguette"
   },
   {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["stacks", "dplyr"],
+    "from": "stacks"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["stacks", "dplyr", "vctrs"],
+    "from": "stacks"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["finetune"],
     "from": "finetune"
+  },
+  {
+    "package": "vctrs",
+    "url": "https://github.com/r-lib/vctrs",
+    "via": ["stacks", "dplyr"],
+    "from": "stacks"
   },
   {
     "package": "yardstick",
