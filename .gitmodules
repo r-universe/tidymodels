@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "agua"]
-	path = agua
-	url = https://github.com/tidymodels/agua
-	shallow = true
-	registered = true
-[submodule "applicable"]
-	path = applicable
-	url = https://github.com/tidymodels/applicable
-	shallow = true
-	registered = true
 [submodule "baguette"]
 	path = baguette
 	url = https://github.com/tidymodels/baguette
-	shallow = true
-	registered = true
-[submodule "bonsai"]
-	path = bonsai
-	url = https://github.com/tidymodels/bonsai
-	shallow = true
-	registered = true
-[submodule "broom"]
-	path = broom
-	url = https://github.com/tidymodels/broom
 	shallow = true
 	registered = true
 [submodule "brulee"]
@@ -33,104 +13,9 @@
 	url = https://github.com/tidymodels/brulee
 	shallow = true
 	registered = true
-[submodule "butcher"]
-	path = butcher
-	url = https://github.com/tidymodels/butcher
-	shallow = true
-	registered = true
-[submodule "censored"]
-	path = censored
-	url = https://github.com/tidymodels/censored
-	shallow = true
-	registered = true
-[submodule "corrr"]
-	path = corrr
-	url = https://github.com/tidymodels/corrr
-	shallow = true
-	registered = true
-[submodule "dials"]
-	path = dials
-	url = https://github.com/tidymodels/dials
-	shallow = true
-	registered = true
-[submodule "discrim"]
-	path = discrim
-	url = https://github.com/tidymodels/discrim
-	shallow = true
-	registered = true
-[submodule "embed"]
-	path = embed
-	url = https://github.com/tidymodels/embed
-	shallow = true
-	registered = true
 [submodule "finetune"]
 	path = finetune
 	url = https://github.com/tidymodels/finetune
-	shallow = true
-	registered = true
-[submodule "hardhat"]
-	path = hardhat
-	url = https://github.com/tidymodels/hardhat
-	shallow = true
-	registered = true
-[submodule "infer"]
-	path = infer
-	url = https://github.com/tidymodels/infer
-	shallow = true
-	registered = true
-[submodule "modeldata"]
-	path = modeldata
-	url = https://github.com/tidymodels/modeldata
-	shallow = true
-	registered = true
-[submodule "modeldb"]
-	path = modeldb
-	url = https://github.com/tidymodels/modeldb
-	shallow = true
-	registered = true
-[submodule "modelenv"]
-	path = modelenv
-	url = https://github.com/tidymodels/modelenv
-	shallow = true
-	registered = true
-[submodule "multilevelmod"]
-	path = multilevelmod
-	url = https://github.com/tidymodels/multilevelmod
-	shallow = true
-	registered = true
-[submodule "parsnip"]
-	path = parsnip
-	url = https://github.com/tidymodels/parsnip
-	shallow = true
-	registered = true
-[submodule "plsmod"]
-	path = plsmod
-	url = https://github.com/tidymodels/plsmod
-	shallow = true
-	registered = true
-[submodule "poissonreg"]
-	path = poissonreg
-	url = https://github.com/tidymodels/poissonreg
-	shallow = true
-	registered = true
-[submodule "probably"]
-	path = probably
-	url = https://github.com/tidymodels/probably
-	shallow = true
-	registered = true
-[submodule "recipes"]
-	path = recipes
-	url = https://github.com/tidymodels/recipes
-	shallow = true
-	registered = true
-[submodule "rsample"]
-	path = rsample
-	url = https://github.com/tidymodels/rsample
-	shallow = true
-	registered = true
-[submodule "rules"]
-	path = rules
-	url = https://github.com/tidymodels/rules
 	shallow = true
 	registered = true
 [submodule "shinymodels"]
@@ -138,44 +23,14 @@
 	url = https://github.com/tidymodels/shinymodels
 	shallow = true
 	registered = true
-[submodule "spatialsample"]
-	path = spatialsample
-	url = https://github.com/tidymodels/spatialsample
+[submodule "corrr"]
+	path = corrr
+	url = https://github.com/tidymodels/corrr
 	shallow = true
 	registered = true
-[submodule "stacks"]
-	path = stacks
-	url = https://github.com/tidymodels/stacks
-	shallow = true
-	registered = true
-[submodule "textrecipes"]
-	path = textrecipes
-	url = https://github.com/tidymodels/textrecipes
-	shallow = true
-	registered = true
-[submodule "themis"]
-	path = themis
-	url = https://github.com/tidymodels/themis
-	shallow = true
-	registered = true
-[submodule "tidyclust"]
-	path = tidyclust
-	url = https://github.com/tidymodels/tidyclust
-	shallow = true
-	registered = true
-[submodule "tidymodels"]
-	path = tidymodels
-	url = https://github.com/tidymodels/tidymodels
-	shallow = true
-	registered = true
-[submodule "tidyposterior"]
-	path = tidyposterior
-	url = https://github.com/tidymodels/tidyposterior
-	shallow = true
-	registered = true
-[submodule "tidypredict"]
-	path = tidypredict
-	url = https://github.com/tidymodels/tidypredict
+[submodule "modeldb"]
+	path = modeldb
+	url = https://github.com/tidymodels/modeldb
 	shallow = true
 	registered = true
 [submodule "tune"]
@@ -183,14 +38,84 @@
 	url = https://github.com/tidymodels/tune
 	shallow = true
 	registered = true
+[submodule "tidyposterior"]
+	path = tidyposterior
+	url = https://github.com/tidymodels/tidyposterior
+	shallow = true
+	registered = true
+[submodule "plsmod"]
+	path = plsmod
+	url = https://github.com/tidymodels/plsmod
+	shallow = true
+	registered = true
+[submodule "probably"]
+	path = probably
+	url = https://github.com/tidymodels/probably
+	shallow = true
+	registered = true
 [submodule "usemodels"]
 	path = usemodels
 	url = https://github.com/tidymodels/usemodels
 	shallow = true
 	registered = true
-[submodule "workflows"]
-	path = workflows
-	url = https://github.com/tidymodels/workflows
+[submodule "tidymodels"]
+	path = tidymodels
+	url = https://github.com/tidymodels/tidymodels
+	shallow = true
+	registered = true
+[submodule "agua"]
+	path = agua
+	url = https://github.com/tidymodels/agua
+	shallow = true
+	registered = true
+[submodule "dials"]
+	path = dials
+	url = https://github.com/tidymodels/dials
+	shallow = true
+	registered = true
+[submodule "multilevelmod"]
+	path = multilevelmod
+	url = https://github.com/tidymodels/multilevelmod
+	shallow = true
+	registered = true
+[submodule "poissonreg"]
+	path = poissonreg
+	url = https://github.com/tidymodels/poissonreg
+	shallow = true
+	registered = true
+[submodule "censored"]
+	path = censored
+	url = https://github.com/tidymodels/censored
+	shallow = true
+	registered = true
+[submodule "spatialsample"]
+	path = spatialsample
+	url = https://github.com/tidymodels/spatialsample
+	shallow = true
+	registered = true
+[submodule "embed"]
+	path = embed
+	url = https://github.com/tidymodels/embed
+	shallow = true
+	registered = true
+[submodule "themis"]
+	path = themis
+	url = https://github.com/tidymodels/themis
+	shallow = true
+	registered = true
+[submodule "textrecipes"]
+	path = textrecipes
+	url = https://github.com/tidymodels/textrecipes
+	shallow = true
+	registered = true
+[submodule "tidypredict"]
+	path = tidypredict
+	url = https://github.com/tidymodels/tidypredict
+	shallow = true
+	registered = true
+[submodule "stacks"]
+	path = stacks
+	url = https://github.com/tidymodels/stacks
 	shallow = true
 	registered = true
 [submodule "workflowsets"]
@@ -198,9 +123,84 @@
 	url = https://github.com/tidymodels/workflowsets
 	shallow = true
 	registered = true
+[submodule "infer"]
+	path = infer
+	url = https://github.com/tidymodels/infer
+	shallow = true
+	registered = true
+[submodule "bonsai"]
+	path = bonsai
+	url = https://github.com/tidymodels/bonsai
+	shallow = true
+	registered = true
+[submodule "workflows"]
+	path = workflows
+	url = https://github.com/tidymodels/workflows
+	shallow = true
+	registered = true
+[submodule "broom"]
+	path = broom
+	url = https://github.com/tidymodels/broom
+	shallow = true
+	registered = true
+[submodule "butcher"]
+	path = butcher
+	url = https://github.com/tidymodels/butcher
+	shallow = true
+	registered = true
+[submodule "parsnip"]
+	path = parsnip
+	url = https://github.com/tidymodels/parsnip
+	shallow = true
+	registered = true
+[submodule "recipes"]
+	path = recipes
+	url = https://github.com/tidymodels/recipes
+	shallow = true
+	registered = true
+[submodule "modeldata"]
+	path = modeldata
+	url = https://github.com/tidymodels/modeldata
+	shallow = true
+	registered = true
+[submodule "discrim"]
+	path = discrim
+	url = https://github.com/tidymodels/discrim
+	shallow = true
+	registered = true
+[submodule "modelenv"]
+	path = modelenv
+	url = https://github.com/tidymodels/modelenv
+	shallow = true
+	registered = true
+[submodule "tidyclust"]
+	path = tidyclust
+	url = https://github.com/tidymodels/tidyclust
+	shallow = true
+	registered = true
+[submodule "rules"]
+	path = rules
+	url = https://github.com/tidymodels/rules
+	shallow = true
+	registered = true
+[submodule "rsample"]
+	path = rsample
+	url = https://github.com/tidymodels/rsample
+	shallow = true
+	registered = true
 [submodule "yardstick"]
 	path = yardstick
 	url = https://github.com/tidymodels/yardstick
+	shallow = true
+	registered = true
+[submodule "applicable"]
+	path = applicable
+	url = https://github.com/tidymodels/applicable
+	shallow = true
+	registered = true
+[submodule "hardhat"]
+	path = hardhat
+	url = https://github.com/tidymodels/hardhat
 	shallow = true
 	registered = true
 [submodule "dplyr"]
