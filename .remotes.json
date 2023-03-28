@@ -6,6 +6,12 @@
     "from": "embed"
   },
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["recipes"],
+    "from": "recipes"
+  },
+  {
     "package": "dplyr",
     "url": "https://github.com/tidyverse/dplyr",
     "via": ["stacks"],
