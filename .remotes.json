@@ -1,5 +1,11 @@
 [
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["embed"],
+    "from": "embed"
+  },
+  {
     "package": "dplyr",
     "url": "https://github.com/tidyverse/dplyr",
     "via": ["stacks"],
