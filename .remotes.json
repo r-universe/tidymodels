@@ -42,16 +42,9 @@
     "from": "finetune"
   },
   {
-    "package": "tune",
-    "url": "https://github.com/tidymodels/tune",
-    "via": ["probably"],
-    "from": "probably"
-  },
-  {
     "package": "yardstick",
     "url": "https://github.com/tidymodels/yardstick",
     "via": ["probably"],
-    "branch": "5f1b9ce",
     "from": "probably"
   }
 ]
