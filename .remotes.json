@@ -30,12 +30,6 @@
     "from": "yardstick"
   },
   {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["censored"],
-    "from": "censored"
-  },
-  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["finetune"],
