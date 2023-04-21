@@ -203,8 +203,3 @@
 	url = https://github.com/tidymodels/yardstick
 	shallow = true
 	registered = true
-[submodule "dplyr"]
-	path = dplyr
-	url = https://github.com/tidyverse/dplyr
-	shallow = true
-	registered = false
