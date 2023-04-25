@@ -1,11 +1,5 @@
 [
   {
-    "package": "dials",
-    "url": "https://github.com/tidymodels/dials",
-    "via": ["recipes"],
-    "from": "recipes"
-  },
-  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["probably", "yardstick"],
