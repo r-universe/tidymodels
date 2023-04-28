@@ -1,11 +1,5 @@
 [
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["probably", "yardstick"],
-    "from": "probably"
-  },
-  {
     "package": "yardstick",
     "url": "https://github.com/tidymodels/yardstick",
     "via": ["probably"],
