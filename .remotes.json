@@ -1,5 +1,11 @@
 [
   {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
     "package": "yardstick",
     "url": "https://github.com/tidymodels/yardstick",
     "via": ["probably"],
