@@ -48,6 +48,11 @@
 	url = https://github.com/tidymodels/corrr
 	shallow = true
 	registered = true
+[submodule "desirability2"]
+	path = desirability2
+	url = https://github.com/tidymodels/desirability2
+	shallow = true
+	registered = true
 [submodule "dials"]
 	path = dials
 	url = https://github.com/tidymodels/dials
