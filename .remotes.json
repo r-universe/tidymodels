@@ -6,6 +6,12 @@
     "from": "workflows"
   },
   {
+    "package": "rsample",
+    "url": "https://github.com/tidymodels/rsample",
+    "via": ["tune"],
+    "from": "tune"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["finetune"],
