@@ -12,6 +12,12 @@
     "from": "workflows"
   },
   {
+    "package": "textfeatures",
+    "url": "https://github.com/mkearney/textfeatures",
+    "via": ["textrecipes"],
+    "from": "textrecipes"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["finetune"],
