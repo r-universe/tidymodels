@@ -95,10 +95,6 @@
 [submodule "stacks"]
 	path = stacks
 	url = https://github.com/tidymodels/stacks
-[submodule "textfeatures"]
-	path = textfeatures
-	url = https://github.com/mkearney/textfeatures
-	registered = false
 [submodule "textrecipes"]
 	path = textrecipes
 	url = https://github.com/tidymodels/textrecipes
