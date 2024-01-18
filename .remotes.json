@@ -1,5 +1,11 @@
 [
   {
+    "package": "aorsf",
+    "url": "https://github.com/ropensci/aorsf",
+    "via": ["censored"],
+    "from": "censored"
+  },
+  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["finetune", "tune"],

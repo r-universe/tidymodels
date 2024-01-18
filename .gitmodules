@@ -5,6 +5,10 @@
 [submodule "agua"]
 	path = agua
 	url = https://github.com/tidymodels/agua
+[submodule "aorsf"]
+	path = aorsf
+	url = https://github.com/ropensci/aorsf
+	registered = false
 [submodule "applicable"]
 	path = applicable
 	url = https://github.com/tidymodels/applicable
