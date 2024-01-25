@@ -46,11 +46,5 @@
     "url": "https://github.com/tidymodels/yardstick",
     "via": ["finetune", "tune"],
     "from": "finetune"
-  },
-  {
-    "package": "yardstick",
-    "url": "https://github.com/tidymodels/yardstick",
-    "via": ["tune"],
-    "from": "tune"
   }
 ]
