@@ -24,12 +24,6 @@
     "from": "tune"
   },
   {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["workflows"],
-    "from": "workflows"
-  },
-  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["agua"],
