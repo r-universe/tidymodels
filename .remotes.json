@@ -14,12 +14,6 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
-    "via": ["recipes"],
-    "from": "recipes"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune"],
     "from": "tune"
   },
