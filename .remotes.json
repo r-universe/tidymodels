@@ -1,21 +1,9 @@
 [
   {
-    "package": "censored",
-    "url": "https://github.com/tidymodels/censored",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["finetune", "tune"],
     "from": "finetune"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["tune"],
-    "from": "tune"
   },
   {
     "package": "tune",
