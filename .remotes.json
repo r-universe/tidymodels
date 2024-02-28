@@ -18,6 +18,12 @@
     "from": "finetune"
   },
   {
+    "package": "tune",
+    "url": "https://github.com/tidymodels/tune",
+    "via": ["workflowsets"],
+    "from": "workflowsets"
+  },
+  {
     "package": "yardstick",
     "url": "https://github.com/tidymodels/yardstick",
     "via": ["agua", "tune"],
