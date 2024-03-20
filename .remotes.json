@@ -8,12 +8,6 @@
   {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
-    "via": ["finetune"],
-    "from": "finetune"
-  },
-  {
-    "package": "tune",
-    "url": "https://github.com/tidymodels/tune",
     "via": ["workflowsets"],
     "from": "workflowsets"
   },
