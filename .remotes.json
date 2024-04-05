@@ -6,6 +6,12 @@
     "from": "parsnip"
   },
   {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["recipes"],
+    "from": "recipes"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["agua"],
