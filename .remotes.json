@@ -12,6 +12,24 @@
     "from": "recipes"
   },
   {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["agua"],
