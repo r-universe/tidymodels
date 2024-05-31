@@ -42,6 +42,12 @@
     "from": "tune"
   },
   {
+    "package": "probably",
+    "url": "https://github.com/tidymodels/probably",
+    "via": ["workflows", "tailor"],
+    "from": "workflows"
+  },
+  {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
     "via": ["tune", "workflows"],
@@ -60,10 +66,22 @@
     "from": "tune"
   },
   {
+    "package": "rsample",
+    "url": "https://github.com/tidymodels/rsample",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
     "package": "tailor",
     "url": "https://github.com/tidymodels/tailor",
     "via": ["tune"],
     "from": "tune"
+  },
+  {
+    "package": "tailor",
+    "url": "https://github.com/tidymodels/tailor",
+    "via": ["workflows"],
+    "from": "workflows"
   },
   {
     "package": "tune",
