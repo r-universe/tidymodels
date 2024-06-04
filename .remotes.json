@@ -84,21 +84,9 @@
     "from": "workflows"
   },
   {
-    "package": "tune",
-    "url": "https://github.com/tidymodels/tune",
-    "via": ["agua"],
-    "from": "agua"
-  },
-  {
     "package": "workflows",
     "url": "https://github.com/tidymodels/workflows",
     "via": ["tune"],
     "from": "tune"
-  },
-  {
-    "package": "yardstick",
-    "url": "https://github.com/tidymodels/yardstick",
-    "via": ["agua", "tune"],
-    "from": "agua"
   }
 ]
