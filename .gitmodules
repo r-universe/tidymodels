@@ -65,6 +65,9 @@
 [submodule "multilevelmod"]
 	path = multilevelmod
 	url = https://github.com/tidymodels/multilevelmod
+[submodule "orbital"]
+	path = orbital
+	url = https://github.com/tidymodels/orbital
 [submodule "parsnip"]
 	path = parsnip
 	url = https://github.com/tidymodels/parsnip
