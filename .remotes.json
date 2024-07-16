@@ -8,7 +8,7 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["tune", "workflows"],
+    "via": ["tune", "workflows", "parsnip"],
     "from": "tune"
   },
   {
@@ -40,12 +40,6 @@
     "url": "https://github.com/tidymodels/probably",
     "via": ["workflows", "tailor"],
     "from": "workflows"
-  },
-  {
-    "package": "recipes",
-    "url": "https://github.com/tidymodels/recipes",
-    "via": ["tune", "workflows"],
-    "from": "tune"
   },
   {
     "package": "recipes",
