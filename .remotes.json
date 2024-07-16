@@ -14,7 +14,7 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflows"],
+    "via": ["workflows", "parsnip"],
     "from": "workflows"
   },
   {
@@ -39,12 +39,6 @@
     "package": "probably",
     "url": "https://github.com/tidymodels/probably",
     "via": ["workflows", "tailor"],
-    "from": "workflows"
-  },
-  {
-    "package": "recipes",
-    "url": "https://github.com/tidymodels/recipes",
-    "via": ["workflows"],
     "from": "workflows"
   },
   {
