@@ -1,11 +1,5 @@
 [
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflows", "parsnip"],
-    "from": "workflows"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune", "workflows"],
