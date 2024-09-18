@@ -2,7 +2,7 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
-    "via": ["tune", "workflows"],
+    "via": ["tune", "tailor", "workflows"],
     "from": "tune"
   },
   {
@@ -56,6 +56,12 @@
   {
     "package": "sparsevctrs",
     "url": "https://github.com/r-lib/sparsevctrs",
+    "via": ["tune", "tailor", "workflows", "parsnip"],
+    "from": "tune"
+  },
+  {
+    "package": "sparsevctrs",
+    "url": "https://github.com/r-lib/sparsevctrs",
     "via": ["workflows", "parsnip"],
     "from": "workflows"
   },
@@ -74,7 +80,7 @@
   {
     "package": "workflows",
     "url": "https://github.com/tidymodels/workflows",
-    "via": ["tune"],
+    "via": ["tune", "tailor"],
     "from": "tune"
   }
 ]
