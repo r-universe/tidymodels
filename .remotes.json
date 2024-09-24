@@ -26,6 +26,12 @@
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
+    "via": ["textrecipes"],
+    "from": "textrecipes"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
     "via": ["themis"],
     "from": "themis"
   },
@@ -58,6 +64,12 @@
     "url": "https://github.com/r-lib/sparsevctrs",
     "via": ["recipes"],
     "from": "recipes"
+  },
+  {
+    "package": "sparsevctrs",
+    "url": "https://github.com/r-lib/sparsevctrs",
+    "via": ["textrecipes", "recipes"],
+    "from": "textrecipes"
   },
   {
     "package": "sparsevctrs",
