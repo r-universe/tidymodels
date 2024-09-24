@@ -24,6 +24,12 @@
     "from": "workflows"
   },
   {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["themis"],
+    "from": "themis"
+  },
+  {
     "package": "rsample",
     "url": "https://github.com/tidymodels/rsample",
     "via": ["tune"],
@@ -52,6 +58,12 @@
     "url": "https://github.com/r-lib/sparsevctrs",
     "via": ["recipes"],
     "from": "recipes"
+  },
+  {
+    "package": "sparsevctrs",
+    "url": "https://github.com/r-lib/sparsevctrs",
+    "via": ["themis", "recipes"],
+    "from": "themis"
   },
   {
     "package": "sparsevctrs",
