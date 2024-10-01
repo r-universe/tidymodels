@@ -60,12 +60,6 @@
     "from": "tune"
   },
   {
-    "package": "rsample",
-    "url": "https://github.com/tidymodels/rsample",
-    "via": ["workflows"],
-    "from": "workflows"
-  },
-  {
     "package": "sparsevctrs",
     "url": "https://github.com/r-lib/sparsevctrs",
     "via": ["embed", "recipes"],
