@@ -6,6 +6,12 @@
     "from": "parsnip"
   },
   {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "tailor", "workflows", "parsnip"],
+    "from": "tune"
+  },
+  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune", "tailor", "workflows"],
