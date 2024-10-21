@@ -1,5 +1,11 @@
 [
   {
+    "package": "dials",
+    "url": "https://github.com/tidymodels/dials",
+    "via": ["workflows"],
+    "from": "workflows"
+  },
+  {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["parsnip"],
@@ -10,6 +16,12 @@
     "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune", "tailor", "workflows", "parsnip"],
     "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["workflows", "parsnip"],
+    "from": "workflows"
   },
   {
     "package": "parsnip",
