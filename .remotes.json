@@ -50,7 +50,7 @@
   {
     "package": "probably",
     "url": "https://github.com/tidymodels/probably",
-    "via": ["workflows", "tailor"],
+    "via": ["workflows"],
     "from": "workflows"
   },
   {
