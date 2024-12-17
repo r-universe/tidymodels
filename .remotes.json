@@ -150,6 +150,12 @@
     "from": "workflows"
   },
   {
+    "package": "tidypredict",
+    "url": "https://github.com/tidymodels/tidypredict",
+    "via": ["orbital"],
+    "from": "orbital"
+  },
+  {
     "package": "workflows",
     "url": "https://github.com/tidymodels/workflows",
     "via": ["tune", "tailor"],
