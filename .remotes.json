@@ -36,12 +36,6 @@
     "from": "workflows"
   },
   {
-    "package": "modelenv",
-    "url": "https://github.com/tidymodels/modelenv",
-    "via": ["tidyclust"],
-    "from": "tidyclust"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune"],
