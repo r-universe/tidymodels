@@ -86,7 +86,7 @@
   {
     "package": "sparsevctrs",
     "url": "https://github.com/r-lib/sparsevctrs",
-    "via": ["parsnip"],
+    "via": ["parsnip", "hardhat"],
     "from": "parsnip"
   },
   {
