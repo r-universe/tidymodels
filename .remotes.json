@@ -14,12 +14,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["parsnip"],
-    "from": "parsnip"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["recipes"],
     "from": "recipes"
   },
@@ -76,12 +70,6 @@
     "url": "https://github.com/tidymodels/rsample",
     "via": ["tune"],
     "from": "tune"
-  },
-  {
-    "package": "sparsevctrs",
-    "url": "https://github.com/r-lib/sparsevctrs",
-    "via": ["parsnip", "hardhat"],
-    "from": "parsnip"
   },
   {
     "package": "sparsevctrs",
