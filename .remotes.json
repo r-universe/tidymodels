@@ -14,12 +14,6 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
-    "via": ["recipes"],
-    "from": "recipes"
-  },
-  {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune"],
     "from": "tune"
   },
@@ -70,12 +64,6 @@
     "url": "https://github.com/tidymodels/rsample",
     "via": ["tune"],
     "from": "tune"
-  },
-  {
-    "package": "sparsevctrs",
-    "url": "https://github.com/r-lib/sparsevctrs",
-    "via": ["recipes"],
-    "from": "recipes"
   },
   {
     "package": "sparsevctrs",
