@@ -18,12 +18,6 @@
     "from": "tune"
   },
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["workflows", "recipes"],
-    "from": "workflows"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune"],
@@ -74,7 +68,7 @@
   {
     "package": "sparsevctrs",
     "url": "https://github.com/r-lib/sparsevctrs",
-    "via": ["workflows", "recipes"],
+    "via": ["workflows"],
     "from": "workflows"
   },
   {
