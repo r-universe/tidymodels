@@ -68,12 +68,6 @@
   {
     "package": "sparsevctrs",
     "url": "https://github.com/r-lib/sparsevctrs",
-    "via": ["recipes"],
-    "from": "recipes"
-  },
-  {
-    "package": "sparsevctrs",
-    "url": "https://github.com/r-lib/sparsevctrs",
     "via": ["textrecipes"],
     "from": "textrecipes"
   },
