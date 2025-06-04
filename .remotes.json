@@ -12,15 +12,9 @@
     "from": "workflows"
   },
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
-    "via": ["tune"],
+    "via": ["tune", "tailor", "workflows"],
     "from": "tune"
   },
   {
@@ -44,7 +38,7 @@
   {
     "package": "recipes",
     "url": "https://github.com/tidymodels/recipes",
-    "via": ["tune"],
+    "via": ["tune", "tailor", "workflows"],
     "from": "tune"
   },
   {
@@ -52,12 +46,6 @@
     "url": "https://github.com/tidymodels/recipes",
     "via": ["workflows"],
     "from": "workflows"
-  },
-  {
-    "package": "rsample",
-    "url": "https://github.com/tidymodels/rsample",
-    "via": ["tune"],
-    "from": "tune"
   },
   {
     "package": "sparsevctrs",
