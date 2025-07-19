@@ -41,6 +41,9 @@
 [submodule "embed"]
 	path = embed
 	url = https://github.com/tidymodels/embed
+[submodule "filtro"]
+	path = filtro
+	url = https://github.com/tidymodels/filtro
 [submodule "finetune"]
 	path = finetune
 	url = https://github.com/tidymodels/finetune
