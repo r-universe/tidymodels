@@ -8,7 +8,7 @@
   {
     "package": "dials",
     "url": "https://github.com/tidymodels/dials",
-    "via": ["tune", "tailor"],
+    "via": ["tune", "workflows"],
     "from": "tune"
   },
   {
