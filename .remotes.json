@@ -32,7 +32,7 @@
   {
     "package": "probably",
     "url": "https://github.com/tidymodels/probably",
-    "via": ["tune", "tailor"],
+    "via": ["tune", "workflows"],
     "from": "tune"
   },
   {
