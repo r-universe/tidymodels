@@ -95,10 +95,6 @@
 [submodule "shinymodels"]
 	path = shinymodels
 	url = https://github.com/tidymodels/shinymodels
-[submodule "sparsevctrs"]
-	path = sparsevctrs
-	url = https://github.com/r-lib/sparsevctrs
-	registered = false
 [submodule "spatialsample"]
 	path = spatialsample
 	url = https://github.com/tidymodels/spatialsample
