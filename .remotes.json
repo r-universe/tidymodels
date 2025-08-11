@@ -6,12 +6,6 @@
     "from": "filtro"
   },
   {
-    "package": "rsample",
-    "url": "https://github.com/tidymodels/rsample",
-    "via": ["tune"],
-    "from": "tune"
-  },
-  {
     "package": "tailor",
     "url": "https://github.com/tidymodels/tailor",
     "via": ["tune"],
