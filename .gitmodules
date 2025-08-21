@@ -50,6 +50,9 @@
 [submodule "hardhat"]
 	path = hardhat
 	url = https://github.com/tidymodels/hardhat
+[submodule "important"]
+	path = important
+	url = https://github.com/tidymodels/important
 [submodule "infer"]
 	path = infer
 	url = https://github.com/tidymodels/infer
