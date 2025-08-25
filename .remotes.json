@@ -12,12 +12,6 @@
     "from": "tune"
   },
   {
-    "package": "tailor",
-    "url": "https://github.com/tidymodels/tailor",
-    "via": ["workflows"],
-    "from": "workflows"
-  },
-  {
     "package": "workflows",
     "url": "https://github.com/tidymodels/workflows",
     "via": ["tune"],
