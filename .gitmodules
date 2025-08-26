@@ -107,7 +107,6 @@
 [submodule "tailor"]
 	path = tailor
 	url = https://github.com/tidymodels/tailor
-	registered = false
 [submodule "textrecipes"]
 	path = textrecipes
 	url = https://github.com/tidymodels/textrecipes
