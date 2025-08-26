@@ -1,11 +1,5 @@
 [
   {
-    "package": "desirability2",
-    "url": "https://github.com/tidymodels/desirability2",
-    "via": ["filtro"],
-    "from": "filtro"
-  },
-  {
     "package": "tailor",
     "url": "https://github.com/tidymodels/tailor",
     "via": ["tune"],
