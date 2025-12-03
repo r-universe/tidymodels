@@ -1,11 +1,5 @@
 [
   {
-    "package": "Cubist",
-    "url": "https://github.com/topepo/Cubist",
-    "via": ["tidypredict"],
-    "from": "tidypredict"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["bonsai"],
