@@ -56,6 +56,9 @@
 [submodule "infer"]
 	path = infer
 	url = https://github.com/tidymodels/infer
+[submodule "lime"]
+	path = lime
+	url = https://github.com/tidymodels/lime
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/tidymodels/modeldata
