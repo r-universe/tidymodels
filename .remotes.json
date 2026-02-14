@@ -12,6 +12,12 @@
     "from": "bonsai"
   },
   {
+    "package": "tidypredict",
+    "url": "https://github.com/tidymodels/tidypredict",
+    "via": ["orbital"],
+    "from": "orbital"
+  },
+  {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["finetune"],
