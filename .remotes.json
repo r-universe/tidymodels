@@ -2,6 +2,12 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["tune", "yardstick"],
+    "from": "tune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["yardstick"],
     "from": "yardstick"
   },
@@ -10,6 +16,12 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["bonsai"],
     "from": "bonsai"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
+    "via": ["tune"],
+    "from": "tune"
   },
   {
     "package": "tidypredict",
@@ -22,5 +34,11 @@
     "url": "https://github.com/tidymodels/tune",
     "via": ["finetune"],
     "from": "finetune"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["tune"],
+    "from": "tune"
   }
 ]
