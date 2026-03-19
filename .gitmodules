@@ -107,6 +107,9 @@
 [submodule "stacks"]
 	path = stacks
 	url = https://github.com/tidymodels/stacks
+[submodule "tabpfn"]
+	path = tabpfn
+	url = https://github.com/tidymodels/tabpfn
 [submodule "tailor"]
 	path = tailor
 	url = https://github.com/tidymodels/tailor
