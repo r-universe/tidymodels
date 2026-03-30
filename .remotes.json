@@ -2,6 +2,12 @@
   {
     "package": "hardhat",
     "url": "https://github.com/tidymodels/hardhat",
+    "via": ["finetune", "tune", "yardstick"],
+    "from": "finetune"
+  },
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
     "via": ["tune", "yardstick"],
     "from": "tune"
   },
@@ -20,6 +26,12 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
+    "via": ["finetune", "tune"],
+    "from": "finetune"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune"],
     "from": "tune"
   },
@@ -27,6 +39,12 @@
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
     "via": ["finetune"],
+    "from": "finetune"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["finetune", "tune"],
     "from": "finetune"
   },
   {
