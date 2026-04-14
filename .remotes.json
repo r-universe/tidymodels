@@ -6,12 +6,6 @@
     "from": "finetune"
   },
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["tune", "yardstick"],
-    "from": "tune"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["bonsai"],
