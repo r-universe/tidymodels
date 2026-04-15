@@ -20,6 +20,12 @@
   {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
+    "via": ["tidyclust", "tune"],
+    "from": "tidyclust"
+  },
+  {
+    "package": "parsnip",
+    "url": "https://github.com/tidymodels/parsnip",
     "via": ["tune"],
     "from": "tune"
   },
@@ -30,10 +36,22 @@
     "from": "finetune"
   },
   {
+    "package": "tune",
+    "url": "https://github.com/tidymodels/tune",
+    "via": ["tidyclust"],
+    "from": "tidyclust"
+  },
+  {
     "package": "yardstick",
     "url": "https://github.com/tidymodels/yardstick",
     "via": ["finetune", "tune"],
     "from": "finetune"
+  },
+  {
+    "package": "yardstick",
+    "url": "https://github.com/tidymodels/yardstick",
+    "via": ["tidyclust", "tune"],
+    "from": "tidyclust"
   },
   {
     "package": "yardstick",
