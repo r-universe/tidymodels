@@ -1,21 +1,9 @@
 [
   {
-    "package": "hardhat",
-    "url": "https://github.com/tidymodels/hardhat",
-    "via": ["finetune", "tune", "yardstick"],
-    "from": "finetune"
-  },
-  {
     "package": "parsnip",
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["bonsai"],
     "from": "bonsai"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["finetune", "tune"],
-    "from": "finetune"
   },
   {
     "package": "parsnip",
@@ -26,20 +14,8 @@
   {
     "package": "tune",
     "url": "https://github.com/tidymodels/tune",
-    "via": ["finetune"],
-    "from": "finetune"
-  },
-  {
-    "package": "tune",
-    "url": "https://github.com/tidymodels/tune",
     "via": ["tidyclust"],
     "from": "tidyclust"
-  },
-  {
-    "package": "yardstick",
-    "url": "https://github.com/tidymodels/yardstick",
-    "via": ["finetune", "tune"],
-    "from": "finetune"
   },
   {
     "package": "yardstick",
