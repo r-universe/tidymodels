@@ -4,23 +4,5 @@
     "url": "https://github.com/tidymodels/parsnip",
     "via": ["bonsai"],
     "from": "bonsai"
-  },
-  {
-    "package": "parsnip",
-    "url": "https://github.com/tidymodels/parsnip",
-    "via": ["tidyclust", "tune"],
-    "from": "tidyclust"
-  },
-  {
-    "package": "tune",
-    "url": "https://github.com/tidymodels/tune",
-    "via": ["tidyclust"],
-    "from": "tidyclust"
-  },
-  {
-    "package": "yardstick",
-    "url": "https://github.com/tidymodels/yardstick",
-    "via": ["tidyclust", "tune"],
-    "from": "tidyclust"
   }
 ]
