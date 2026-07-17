@@ -59,6 +59,9 @@
 [submodule "lime"]
 	path = lime
 	url = https://github.com/tidymodels/lime
+[submodule "lorax"]
+	path = lorax
+	url = https://github.com/tidymodels/lorax
 [submodule "modeldata"]
 	path = modeldata
 	url = https://github.com/tidymodels/modeldata
