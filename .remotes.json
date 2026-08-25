@@ -1,0 +1,8 @@
+[
+  {
+    "package": "tidypredict",
+    "url": "https://github.com/tidymodels/tidypredict",
+    "via": ["orbital"],
+    "from": "orbital"
+  }
+]
